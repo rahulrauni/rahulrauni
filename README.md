@@ -25,15 +25,16 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer ğŸ
 <br>
 
 ### ğŸ”¨ Languages and Tools:
-<a  target="_blank"> <img align="left" src="https://www.shutterstock.com/image-vector/cpp-file-document-icon-1356879893" alt="pytorch" height="42px"/> </a> 
-<a  target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a  target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a  target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="42px"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a  target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a  target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-
+<a  target="_blank"><img align="left" alt="Gradle" height ="42px" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></a>
+<a target="_blank"><img align="left" alt="Circle" height ="42px" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></a>
+<a  target="_blank"> <img align="left" alt="Json" height ="42px" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="firebase" height ="42px"/> </a>
+<a  target="_blank"> <img align="left" alt="SQL" height ="42px"  src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </a>
+<a  target="_blank"> <img align="left" alt="Firebase" height ="42px"  src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </a>
+<a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
+<a  target="_blank"> <img align="left" alt="XML" height ="42px"  src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> </a>
+<a  target="_blank"> <img align="left" alt="Gitbash" height ="42px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </a>
 <!--![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data-Structure?style=flat&logo=DataStructure&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
