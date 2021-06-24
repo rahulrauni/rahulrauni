@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rahul Raj, Software Developer Form India!
+## Hey 👋 I'm Rahul Raj, Software Developer Form India!
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulrauni)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-12107515b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_rauni_/)
