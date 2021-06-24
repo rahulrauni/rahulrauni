@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer �
 - 🔭 &nbsp; I currently spending most of time on enhancing my **Problem Solving Skills**.
 - 🤝 &nbsp; I’m looking for Full time job Oppurtunities in software Domain.
 - 🌱 &nbsp; I’m currently learning Web Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahulrauni
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahulrauni/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help.
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-raj-12107515b/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/folders/1NC0IKZ0mU6Z8wKCVR1391OThAIR09UYh?usp=sharing)
