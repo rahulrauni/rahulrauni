@@ -13,7 +13,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer �
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I currently spending most of time on enhancing my **Problem Solving Skills**.
+- 🔭 &nbsp; I currently spending most of the time on enhancing my **Problem Solving Skills**.
 - 🤝 &nbsp; I’m looking for Full time job Oppurtunities in software Domain.
 - 🌱 &nbsp; I’m currently learning Web Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahulrauni/)
