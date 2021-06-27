@@ -1,4 +1,4 @@
-## Hey 👋 I'm Rahul Raj, Software Developer Form India!
+## Hey 👋 I'm Rahul Raj, Software Developer From India.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/rahulrauni)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-raj-12107515b/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/its_rauni_/)
@@ -36,19 +36,7 @@ I am a versatilist and easily adapt to different hats (Competitive Programmer �
 <a  target="_blank"> <img align="left" alt="Git" height ="42px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="XML" height ="42px"  src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> </a>
 <a  target="_blank"> <img align="left" alt="Gitbash" height ="42px"  src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"> </a>
-<!--![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data-Structure?style=flat&logo=DataStructure&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)-->
+
 
 <br>
 <!--
